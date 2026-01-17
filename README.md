@@ -1,5 +1,7 @@
 # PyCalc
 
+[![CI](https://github.com/DataJinipk/spec-project/actions/workflows/ci.yml/badge.svg)](https://github.com/DataJinipk/spec-project/actions/workflows/ci.yml)
+
 A basic arithmetic calculator CLI.
 
 ## Installation
